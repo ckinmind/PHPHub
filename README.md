@@ -1,5 +1,5 @@
 # PHPBook
-所有关于PHP的整理收集
+整理范围：PHP，PHP框架，Linux,Mysql,MongoDB
 
 ## 导航
 |类目|解释|
